@@ -66,7 +66,7 @@ def ModernHeatmapPlot(data:pd.DataFrame, save:bool=False, **kwargs):
     
     g.fig.set_size_inches(8,8)
     
-    # sns.move_legend(g, "lower center",bbox_to_anchor=(0.78, 0.5), title='Bin', frameon=False,)
+    # sns.move_legend(g, "lower center",bbox_to_anchor=(0.78, 0.5), title=options["legend_label"], frameon=False,)
     
     g.set_xlabels(options["x_label"])
     g.set_ylabels(options["y_label"])
