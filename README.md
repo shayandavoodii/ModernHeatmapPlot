@@ -1,4 +1,9 @@
 # <p align="Center">Modern Heatmap Plot</p>
+<div  align="center">
+<a href="https://t.me/shayandavoodii"><img src="https://badgen.net/badge/icon/Telegram?icon=telegram&label"/></a>
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/shayandavoodii/ModernHeatmapPlot">
+</div>
+
 <p align="justify">
 Seaborn has become one of the most popular visualization tools in Python. There are numerous variations of charts, which you can organize using Seaborn. Recently, heatmap plots have become one of the most popular types of visual representation. In this repository, I tried to create a modern style (under the guidance of a kind man named Johan. C) by imitating a chart style I've recently seen on Twitter. This plot can be applied to almost any tabular data incorporating various shapes. In the following sections, I'll provide two examples to show the use case of such a plot in Python.
 </p>
