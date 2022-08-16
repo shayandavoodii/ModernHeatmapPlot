@@ -81,7 +81,7 @@ And if you're interested in high-quality images, unfold the lower section.
 ---
 
 # Suggestions
-Feel free to reach out if you have any suggestions or find any problems with the code. Also, I'll appreciate any contribution to making better plot(s).
+Feel free to reach out if you have any suggestions or find any problems with the code. Also, I'll appreciate any contribution to making better plot(s). So any PRs would be warmly welcome.
 - linkedIn: [Here](www.linkedin.com/in/shayandavoodi)
 - Telegram: [Here](t.me/shayandavoodii)
 ---
