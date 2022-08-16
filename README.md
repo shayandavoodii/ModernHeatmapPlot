@@ -38,8 +38,10 @@ Statistics and Almost every Data Scientist utilize special gauges to determine t
   # Storing the correlations
   correlations = df.corr()
   
+  options = {"x_label":"Variables", "y_label":"Variables", "legend_label":"Correlation"}
+  
   # Drawing the plot using the 'ModernHeatmapPlot' function.
-  ModernHeatmapPlot(correlations, "Variables", "Variables", legend_label="Correlation")
+  ModernHeatmapPlot(correlations, **options)
   ```
 </details>
 
@@ -62,7 +64,9 @@ Probably you have heard of Bin matrixes. It is possible to produce bin matrices 
   df = pd.read_pickle("bindata.pkl")
   
   palette = sns.diverging_palette(145, 300, s=70, as_cmap=True)
-  ModernHeatmapPlot(data=df, x_label="Features", y_label="ُTickers", palette=palette, legend_label="Bin")
+  options = {"x_label":"Features", "y_label":"ُTickers", "palette":palette, "legend_label":"Bin"}
+  
+  ModernHeatmapPlot(data=df, **options)
   ```
 </details>
 Here you can see the difference between these two plots:  
