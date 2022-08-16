@@ -80,6 +80,12 @@ And if you're interested in high-quality images, unfold the lower section.
 
 ---
 
+# Suggestions
+Feel free to reach out if you have any suggestions or find any problems with the code. Also, I'll appreciate any contribution to making better plot(s).
+- linkedIn: [Here](www.linkedin.com/in/shayandavoodi)
+- Telegram: [Here](t.me/shayandavoodii)
+---
+
 ## Acknowledgements
 - I would appreciate Johan. C for his kind attitude towards guiding me in many aspects of drawing the plot.
 - Also, I would like to thank my Brazilian friend, 0xAF, for intuitively proposing cool ideas to draw plots.
