@@ -18,10 +18,10 @@ def ModernHeatmapPlot(data:pd.DataFrame, save:bool=False, **kwargs):
 
         kwargs:
 
-            x_label:
+            x_label: default="x tickers"
                 The label of the x axis 
 
-            y_label:
+            y_label: default="y tickers"
                 The label of the y axis 
 
             legend_label: default="Value"
