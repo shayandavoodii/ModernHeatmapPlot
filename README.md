@@ -64,7 +64,7 @@ Probably you have heard of Bin matrixes. It is possible to produce bin matrices 
   df = pd.read_pickle("bindata.pkl")
   
   palette = sns.diverging_palette(145, 300, s=70, as_cmap=True)
-  options = {"x_label":"Features", "y_label":"ُTickers", "palette":palette, "legend_label":"Bin"}
+  options = {"x_label":"Features", "y_label":"Tickers", "palette":palette, "legend_label":"Bin"}
   
   ModernHeatmapPlot(data=df, **options)
   ```
