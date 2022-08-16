@@ -1,9 +1,8 @@
-
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 
-def ModernHeatmapPlot(data:pd.DataFrame, x_label:str, y_label:str, legend_label:str="Value", palette=None, save:bool=False):
+def ModernHeatmapPlot(data:pd.DataFrame, x_label:str, y_label:str, legend_label:str="Value", title=None, palette=None, save:bool=False):
     """
     Draw a modern Heatmap plot utilizing Seaborn
 
@@ -25,6 +24,9 @@ def ModernHeatmapPlot(data:pd.DataFrame, x_label:str, y_label:str, legend_label:
 
         palette: default=None
             A seaborn palette to change the colormap
+
+        title: String | default=None
+            Title of the plot
 
         save: default=False
             Save the fig in the current directory
@@ -69,6 +71,10 @@ def ModernHeatmapPlot(data:pd.DataFrame, x_label:str, y_label:str, legend_label:
     g.ax.grid(color='black', lw=0.45)
     g.fig.subplots_adjust(left=0.1, bottom=0.15)
     
-    g.savefig("plot.jpeg", dpi=300)
+    if title:
+        plt.title(title)
+    
+    if save:
+        g.savefig(f"fig {title}.jpeg", dpi=300)
     
     plt.show()
