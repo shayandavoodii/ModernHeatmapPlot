@@ -80,7 +80,7 @@ And if you're interested in high-quality images, unfold the lower section.
 
 ---
 
-# Suggestions
+## Suggestions
 Feel free to reach out if you have any suggestions or find any problems with the code. Also, I'll appreciate any contribution to making better plot(s); So any PRs would be warmly welcome.
 - [linkedIn](www.linkedin.com/in/shayandavoodi)
 - [Telegram](t.me/shayandavoodii)
