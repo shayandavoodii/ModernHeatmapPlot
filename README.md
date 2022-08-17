@@ -92,4 +92,4 @@ Feel free to reach out if you have any suggestions or find any problems with the
 
 ## Acknowledgements
 - I appreciate Johan. C. for his kind attitude towards guiding me in many aspects of drawing the plot.
-- Also, I would like to thank my Brazilian friend, 0xAF, for intuitively proposing cool ideas to draw plots.
+- Also, I would like to thank my Brazilian friend, [0xAFF](https://github.com/0xAFF), for intuitively proposing cool ideas to draw plots.
