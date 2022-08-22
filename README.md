@@ -1,7 +1,5 @@
 # <p align="Center">Modern Heatmap Plot</p>
 <div  align="center">
-
-[![Coverage Status](https://coveralls.io/repos/github/shayandavoodii/ModernHeatmapPlot/badge.svg?branch=main)](https://coveralls.io/github/shayandavoodii/ModernHeatmapPlot?branch=main)
 <a href="https://t.me/shayandavoodii"><img src="https://badgen.net/badge/icon/Telegram?icon=telegram&label"/></a>
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/shayandavoodii/ModernHeatmapPlot">
 </div>
