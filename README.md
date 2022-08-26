@@ -86,8 +86,8 @@ And if you're interested in high-quality images, unfold the lower section.
 
 ## Suggestions
 Feel free to reach out if you have any suggestions or find any problems with the code. Also, I'll appreciate any contribution to making better plot(s); So any PRs would be warmly welcome.
-- [LinkedIn](www.linkedin.com/in/shayandavoodi)
-- [Telegram](https://t.me/shayandavoodii)
+- <a href="www.linkedin.com/in/shayandavoodi">LinkedIn</a>
+- <a href="https://t.me/shayandavoodii">Telegram</a>
 ---
 
 ## Acknowledgements
