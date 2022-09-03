@@ -56,12 +56,12 @@ def ModernHeatmapPlot(data:pd.DataFrame, save:bool=False, **kwargs):
                     hue=options["legend_label"],
                     marker="s",
                     sizes=(20, 100),
-                    palette=palette,
+                    palette=options["palette"],
                     height=8,
                     aspect=1.1
     )
 
-    g.ax.tick_params(axis='x', labelrotation=45)
+    g.ax.tick_params(axis='x', labelrotation=90)
     g.ax.set_aspect("equal", share=True)
     
     g.fig.set_size_inches(8,8)
