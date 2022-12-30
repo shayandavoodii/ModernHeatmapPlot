@@ -2,6 +2,7 @@
 <div  align="center">
 <a href="https://t.me/shayandavoodii"><img src="https://badgen.net/badge/icon/Telegram?icon=telegram&label"/></a>
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/shayandavoodii/ModernHeatmapPlot">
+<a href="https://zenodo.org/badge/latestdoi/525259390"><img src="https://zenodo.org/badge/525259390.svg" alt="DOI"></a>
 </div>
 
 <p align="justify">
